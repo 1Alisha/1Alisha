@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alisha Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="" width="400px" src="https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630">
+<img align="right" alt="" width="1200px" src="https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1alisha&label=Profile%20views&color=0e75b6&style=flat" alt="1alisha" /> </p>
 
