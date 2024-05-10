@@ -17,10 +17,6 @@
  
  👯 I’m looking to collaborate in **open source projects**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com)**
-
-⚡ Fun fact **The first alarm clock could only ring at 4 a.m., the time its inventor, Levi Hutchins, wanted to wake up ⏰🤯**
-
  </div>
  <div align="center">
 <h3 align="center">Connect with me:</h3>
