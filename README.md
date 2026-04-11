@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alisha Gupta</h1>
-<h3 align="center">A passionate FRONTEND DEVELOPER from India</h3>
+<h3 align="center">Associate Application Engineer from India</h3>
 
 
 
